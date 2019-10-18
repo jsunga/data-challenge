@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+}
+
+main {
+  padding-bottom: 20px;
+}
+
+table {
+  display: block;
+  height: 400px;
+  overflow: auto;
+}
+
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+th {
+  border: 1px solid;
+  padding: 5px;
+  text-align: center;
+}
+
+td {
+  border: 1px solid;
+  padding: 5px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+span {
+  display: block;
+  text-align: center;
+}
